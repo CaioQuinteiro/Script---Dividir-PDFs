@@ -3,7 +3,7 @@ import pikepdf
 
 #VARIAVÉIS PARA ALTERAR
 pg = 30
-pasta = "saidas"
+pasta = "pdfs"
 pdf = "processos.pdf"
 
 def split_pdf(file_path, output_folder, chunk_size=pg):

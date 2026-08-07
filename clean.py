@@ -27,6 +27,6 @@ def limpar_pasta(caminho_pasta):
     
     print("\n[FINALIZADO] Limpeza concluída.")
 
-pasta_para_limpar = "saidas"
+pasta_para_limpar = "pdfs"
 
 limpar_pasta(pasta_para_limpar)
